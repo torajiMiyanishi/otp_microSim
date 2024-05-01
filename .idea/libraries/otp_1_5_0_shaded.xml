@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="otp-1.5.0-shaded">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/otp-1.5.0-shaded.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
